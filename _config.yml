@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Philippe KUBLER
+tagline:          'Webmaster Editorial'
+description:      'Consultant en stratégie de contenu et intégrateur web : HTML5, CSS, JS (NodeJS le w-e) Wordpress, Drupal et Episerver. Mobile-first et Client-oriented. Accroc à son arduino.'
 url:              https://philippekubler.github.io
 baseurl:          /
 
