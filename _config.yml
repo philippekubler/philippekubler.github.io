@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Philippe KUBLER
 tagline:          'Webmaster Editorial'
-description:      'Consultant en stratégie de contenu et intégrateur web'
+description:      'Stratégie de Contenu et intégrateur web'
 url:              https://philippekubler.github.io
 baseurl:          /
 
