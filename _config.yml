@@ -14,7 +14,7 @@ url:              https://philippekubler.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Made by Mark Otto'
   url:            https://twitter.com/mdo
 
 paginate:         5
